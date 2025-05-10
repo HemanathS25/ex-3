@@ -17,7 +17,9 @@ ls
 
 **Output:**
 
-![alt text](image.png)
+
+![image](https://github.com/user-attachments/assets/888ef6e4-7042-4e5e-8ad6-a377a546e3e4)
+
 
 ### 2. `pwd` Command
 
@@ -30,7 +32,9 @@ pwd
 
 **Output:** 
 
-![alt text](image-1.png)
+
+![image](https://github.com/user-attachments/assets/85116140-23a7-46c9-b648-4cf2d26c04aa)
+
 
 ### 3. `mkdir` Command
 
@@ -43,7 +47,9 @@ mkdir <directory_name>
 
 **Output:**
 
-![alt text](image-2.png)
+
+![image](https://github.com/user-attachments/assets/92319599-fe74-41c2-9890-70a6dbd56345)
+
 
 ### 4. `rmdir` Command
 
@@ -56,7 +62,8 @@ rmdir <directory_name>
 
 **Output:**
 
-![alt text](image-3.png)
+
+![image](https://github.com/user-attachments/assets/66f08e16-9679-4552-8143-401d92ddc56f)
 
 ### 5. `cd` Command
 
@@ -69,7 +76,9 @@ cd <directory_name>
 
 **Output:**
 
-![alt text](image-4.png)
+
+![image](https://github.com/user-attachments/assets/fad8ebac-9edd-452f-953d-41f38bd569d7)
+
 
 ### 6. `cat` Command
 
@@ -82,7 +91,9 @@ cat [OPTION]... [FILE]...
 
 **Output:**
 
-![alt text](image-5.png)
+
+![image](https://github.com/user-attachments/assets/c7ecaccb-001f-4907-96f1-5babb764ebde)
+
 
 ### 7. `cp` Command
 
@@ -95,7 +106,9 @@ cp <source_file> <destination_file>
 
 **Output:**
 
-![alt text](image-6.png)
+
+![image](https://github.com/user-attachments/assets/a27d4570-f3ee-4796-98c1-8b34585e4efb)
+
 
 ### 8. `gedit` Command
 
@@ -108,7 +121,9 @@ gedit <file_name>
 
 **Output:**
 
-![alt text](image-7.png)
+
+![image](https://github.com/user-attachments/assets/b94c47f4-839f-4457-b236-52b92a2aa293)
+
 
 ### 9. `su` Command
 
@@ -121,7 +136,8 @@ su <username>
 
 **Output:**
 
-![alt text](image-8.png)
+
+![image](https://github.com/user-attachments/assets/f3344a0a-594c-4431-8e69-eaf6a727db5c)
 
 ### 10. `mv` Command
 
@@ -134,7 +150,9 @@ mv <file_name> <directory_path>
 
 **Output:**
 
-![alt text](image-9.png)
+
+![image](https://github.com/user-attachments/assets/41795302-a7bf-4e59-aa2d-7f8ab9c797db)
+
 
 ### 11. `rename` Command
 
@@ -147,7 +165,8 @@ rename 's/old-name/new-name/' <files>
 
 **Output:**
 
-![alt text](image-10.png)
+
+![image](https://github.com/user-attachments/assets/82ae5c36-916b-4c05-be98-2535a8587998)
 
 ### 12. `head` Command
 
@@ -160,7 +179,8 @@ head <file_name>
 
 **Output:**
 
-![alt text](image-11.png)
+
+![image](https://github.com/user-attachments/assets/2038710a-f451-42e6-a318-4202b0e02f8c)
 
 ### 13. `tail` Command
 
@@ -173,7 +193,8 @@ tail <file_name>
 
 **Output:**
 
-![alt text](image-12.png)
+![image](https://github.com/user-attachments/assets/463158ab-8b2f-4084-ad0d-1dbfac163ef8)
+
 
 ### 14. `id` Command
 
@@ -186,7 +207,9 @@ id
 
 **Output:**
 
-![alt text](image-13.png)
+
+![image](https://github.com/user-attachments/assets/0a132d13-9680-44e8-a3ce-27566fc16e96)
+
 
 ### 15. `grep` Command
 
@@ -199,7 +222,9 @@ command | grep <search_word>
 
 **Output:**
 
-![alt text](image-14.png)
+
+![image](https://github.com/user-attachments/assets/2decb83e-8705-4c30-b1f9-884f6e206203)
+
 
 ### 16. `tr` Command
 
@@ -212,7 +237,9 @@ command | tr <old> <new>
 
 **Output:**
 
-![alt text](image-15.png)
+
+![image](https://github.com/user-attachments/assets/351c3886-6e34-4f76-afba-4c496a5dc93e)
+
 
 ### 17. `chmod` Command
 
@@ -225,7 +252,9 @@ chmod <options> <permissions> <file_name>
 
 **Output:**
 
-![alt text](image-16.png)
+
+![image](https://github.com/user-attachments/assets/1ccc5d56-8311-459c-9bed-b5252d86322a)
+
 
 ### 18. `tar` Command
 
@@ -238,7 +267,9 @@ tar [options] [archive-file] [files_to_archive]
 
 **Output:**
 
-![alt text](image-17.png)
+
+![image](https://github.com/user-attachments/assets/95c6c526-d58b-46bb-b8c8-eb0a9fc2a38a)
+
 
 ### 19. `chown` Command
 
@@ -251,7 +282,9 @@ chown <owner_name> <file_name>
 
 **Output:**
 
-![alt text](image-18.png)
+
+![image](https://github.com/user-attachments/assets/64c6dec1-a4f9-4ec1-94a1-905307161753)
+
 
 ### 20. `make` Command
 
@@ -264,7 +297,9 @@ make [-f makefile] [options] [targets]
 
 **Output:**
 
-![alt text](image-19.png)
+
+![image](https://github.com/user-attachments/assets/bdde318b-1439-433c-9f7b-866f6bfd39c2)
+
 
 ### 21. `ifconfig` Command
 
@@ -277,7 +312,9 @@ ifconfig [options] [interface]
 
 **Output:**
 
-![alt text](image-20.png)
+
+![image](https://github.com/user-attachments/assets/4fc5123b-b2cc-4cb5-9a65-6f76c24e69d9)
+
 
 
 
@@ -292,7 +329,9 @@ host <domain_name> or <ip_address>
 
 **Output:**
 
-![alt text](image-21.png)
+
+![image](https://github.com/user-attachments/assets/dd64b2c8-f9a7-44c8-8e7f-800b0991656a)
+
 
 ### 23. `gzip` Command
 
@@ -305,7 +344,9 @@ gzip <file1> <file2> <file3>...
 
 **Output:**
 
-![alt text](image-22.png)
+
+![image](https://github.com/user-attachments/assets/1d61c204-5c21-468b-83ba-3e015758406d)
+
 
 ### 24. `sort` Command
 
@@ -318,7 +359,8 @@ sort <file_name>
 
 **Output:**
 
-![alt text](image-23.png)
+
+![image](https://github.com/user-attachments/assets/4284f7d5-bb2b-4c18-8da2-032b447255df)
 
 ### 25. `cal` Command
 
@@ -331,7 +373,8 @@ cal
 
 **Output:**
 
-![alt text](image-24.png)
+
+![image](https://github.com/user-attachments/assets/5ba3240e-905a-4986-8431-8ecb889dfe27)
 
 ### 26. `clear` Command
 
@@ -344,7 +387,9 @@ clear
 
 **Output:**
 
-![alt text](image-25.png)
+
+![image](https://github.com/user-attachments/assets/6f96c040-d8be-442b-8aaf-f2f147232218)
+
 
 ### 27. `mail` Command
 
@@ -357,7 +402,9 @@ mail
 
 **Output:**
 
-![alt text](image-26.png)
+
+![image](https://github.com/user-attachments/assets/5031daf2-b182-494c-b69a-accbbfcf8813)
+
 
 ### 28. `df` Command
 
@@ -370,7 +417,9 @@ df
 
 **Output:**
 
-![alt text](image-27.png)
+
+![image](https://github.com/user-attachments/assets/5a4b8fcc-dcb8-4320-aad0-80a2000b3244)
+
 
 ### 29. `find` Command
 
@@ -383,7 +432,9 @@ find <directory> -name <file_name>
 
 **Output:**
 
-![alt text](image-28.png)
+
+![image](https://github.com/user-attachments/assets/ac427826-a23e-441f-a92e-d05967bed286)
+
 
 ## Result
 All basic and advanced operations were successfully performed through appropriate Linux commands, with the system responding accurately to each, confirming correct execution and expected behavior, thereby demonstrating the effectiveness and reliability of the Linux command-line interface for comprehensive system management.
